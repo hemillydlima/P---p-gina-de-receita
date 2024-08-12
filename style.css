@@ -1,3 +1,23 @@
+body{
+  background-image: url(archives/bg-image.png) ;
+  background-color: #573824;
+  background-repeat:no-repeat ;
+  background-size: cover;
+}
+h1{
+  font-size: 40px;
+}
 img {
   border-radius: 16px;
+  height: 400px;
+  padding: 24px;
+ 
+}
+#container{
+  border-radius: 24px;
+  background-color:#F0E8C2;
+
+  width: 800px;
+  margin: 48px auto 100px ;
+  
 }
