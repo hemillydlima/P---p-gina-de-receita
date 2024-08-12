@@ -1,4 +1,7 @@
 body {
     font-family: "Alice", serif;
 }
+#container img{
+  background: url(/img\ fundo.png)no repeat top center/cover;
+}
   
