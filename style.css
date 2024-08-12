@@ -1,7 +1,3 @@
-body {
-    font-family: "Alice", serif;
+img {
+  border-radius: 16px;
 }
-#container img{
-  background: url(/img\ fundo.png)no repeat top center/cover;
-}
-  
